@@ -1,1 +1,1 @@
-# LogicNowInternTechnicalExercises
+# Technical Exercises
